@@ -1,7 +1,5 @@
-import logo from './logo.svg';
 import './App.css';
 import StonePaperScissors from './pssgame'
-
 function App() {
   return (
     <div className="App">
