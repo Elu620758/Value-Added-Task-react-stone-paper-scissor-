@@ -1,0 +1,42 @@
+/* App.css */
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #f0f0f0;
+  }
+  
+  .game-container {
+    margin-top: 50px;
+  }
+  
+  .choices {
+    margin: 20px 0;
+  }
+  
+  .choice-button {
+    padding: 10px 20px;
+    margin: 0 10px;
+    font-size: 16px;
+    cursor: pointer;
+    border: none;
+    background-color: #7311dd;
+    color: white;
+    border-radius: 5px;
+  }
+  
+  .choice-button:hover {
+    background-color: #28ab54;
+  }
+  
+  .results {
+    margin-top: 30px;
+  }
+  
+  .results p {
+    margin: 5px 0;
+  }
+  
+  .results h2 {
+    color: #007bff;
+  }
+  
